@@ -1,0 +1,10 @@
+{
+    "app_id": "g-todo-notes-bpobx",
+    "config_version": 20210101,
+    "name": "G-todo-notes",
+    "location": "SG",
+    "deployment_model": "LOCAL",
+    "allowed_request_origins": [
+        "http://localhost:3000"
+    ]
+}
